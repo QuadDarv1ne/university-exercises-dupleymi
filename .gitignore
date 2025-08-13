@@ -1,0 +1,86 @@
+# -----------------------------
+# Системные файлы
+# -----------------------------
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+# -----------------------------
+# Компилятор и сборка
+# -----------------------------
+# GCC, Clang
+*.o
+*.obj
+*.so
+*.a
+*.dll
+*.exe
+*.out
+*.i
+*.ii
+*.s
+*.su
+*.lst
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
+
+# -----------------------------
+# IDE и редакторы
+# -----------------------------
+# Visual Studio
+*.vcxproj.user
+*.suo
+*.user
+*.pdb
+*.ipch
+*.aps
+*.ncb
+*.opendb
+*.VC.db
+*.VC.opendb
+
+# CLion
+.idea/
+*.iml
+cmake-build-*/
+
+# Code::Blocks
+*.depend
+*.layout
+*.cbp
+
+# Qt Creator
+*.pro.user
+*.qmake.stash
+*.qmake.cache
+
+# -----------------------------
+# Лог и временные файлы
+# -----------------------------
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+
+# -----------------------------
+# Конфиги для пакетов
+# -----------------------------
+*.DS_Store
+*.vscode/
